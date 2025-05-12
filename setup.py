@@ -13,7 +13,7 @@ LIST_OF_REQUIREMENTS = ['streamlit', 'numpy']
 setup(
     name=SRC_REPO,
     version="0.0.1",
-    author=AUTHOR_USER_NAME,
+    author=Thanvi,
     description="A small package for Movie Recommender System",
     long_description=long_description,
     long_description_content_type="text/markdown",
